@@ -25,23 +25,23 @@ li a:hover {
 /*end of navbar*/
 h1 {
     background: #333;
-    color: #999;
+    color: white;
     text-align: center;
 }
 h2 {
     background: #333;
-    color: #999;
+    color: white;
     text-align: center;
 }
 h3 {
     background: #333;
-    color: #999;
+    color: white;
     text-align: center;
 }
 
 /*end of headers*/
 p {
-    color:white;
+    color: white;
     background: #333;
 }
 body {
